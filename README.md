@@ -7,9 +7,9 @@ When the number is 64,253 is multiplied by 365 the product is 23,452,345. Notice
  Given an integer n > 1 and an integer p > 1 you are to write a program that determines the positive nth root of p. In this problem, given such integers n and p, p will always be of the form k^n for an integer k ( this integer is what your program much find).
 Example:
 1.Input 2 2 (n=2, p=2) 
-··*output no such integer k 
+··* output no such integer k 
 2.Input 5 243 (n=5, p=243)
-··*Output k=3
+··* Output k=3
 
 # Number=sum of cubes of individual digits
 Given a positive integer as input. If it has exactly three digits,then determine if the integer equals the sum of the cubes of its digits.
